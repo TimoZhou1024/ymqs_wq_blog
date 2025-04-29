@@ -2,6 +2,8 @@
 
 ---start---
 ## 目录(2025年04月29日更新)
+[First Post uploaded by github action](https://ymqs.top/p/2025-04-29-18/)
+
 [乐观劲上来了，总感觉自己刀枪不入，而市场最爱惩罚自以为是的人](https://ymqs.top/p/2025-04-19-13-19-39-scarcity/)
 
 [币圈赌狗游戏加密猫要投入多少钱？如何玩官方免费版加密猫？](https://ymqs.top/p/2025-02-15-16-38-39-eth-cryptokitties/)
