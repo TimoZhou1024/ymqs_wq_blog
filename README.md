@@ -1,7 +1,9 @@
 # 方圆小站Github仓库
 
 ---start---
-## 目录(2025年04月29日更新)
+## 目录(2025年04月30日更新)
+[自建服务器1panel+lsky-pro+Nginx反向代理+PicGo设置](https://ymqs.top/p/2025-04-30-10/)
+
 [使用github action同步WordPress博客内容](https://ymqs.top/p/2025-04-29-18/)
 
 [乐观劲上来了，总感觉自己刀枪不入，而市场最爱惩罚自以为是的人](https://ymqs.top/p/2025-04-19-13-19-39-scarcity/)
