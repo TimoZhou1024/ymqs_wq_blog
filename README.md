@@ -1,7 +1,9 @@
 # 方圆小站Github仓库
 
 ---start---
-## 目录(2025年04月30日更新)
+## 目录(2025年05月05日更新)
+[Cherry + MCP 尝试](https://ymqs.top/p/2025-05-06-00/)
+
 [自建服务器1panel+lsky-pro+Nginx反向代理+PicGo设置](https://ymqs.top/p/2025-04-30-10/)
 
 [使用github action同步WordPress博客内容](https://ymqs.top/p/2025-04-29-18/)
