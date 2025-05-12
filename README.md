@@ -1,7 +1,9 @@
 # 方圆小站Github仓库
 
 ---start---
-## 目录(2025年05月11日更新)
+## 目录(2025年05月12日更新)
+[【FDU 统计学基础一】期中试题整理（2025年春）](https://ymqs.top/p/2025-05-12-12/)
+
 [Awesome Marp 使用说明](https://ymqs.top/p/2025-05-12-07/)
 
 [Cherry + MCP 尝试](https://ymqs.top/p/2025-05-06-00/)
