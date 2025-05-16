@@ -2,6 +2,8 @@
 
 ---start---
 ## 目录(2025年05月16日更新)
+[ubuntu如何清理缓存](https://ymqs.top/p/2025-05-16-12/)
+
 [Weclone配置教程](https://ymqs.top/p/2025-05-14-12/)
 
 [FD2UC导航页](https://ymqs.top/p/2025-05-13-16/)
