@@ -8,7 +8,7 @@
 
 [润](https://ymqs.top/p/2025-05-22-15/)
 
-[wsl端口映射到主机](https://ymqs.top/p/2025-05-18-15-wsl-port/)
+[wsl端口映射到主机](https://ymqs.top/p/2025-05-18-15/)
 
 [ubuntu如何清理缓存](https://ymqs.top/p/2025-05-16-12/)
 
