@@ -2,11 +2,13 @@
 
 ---start---
 ## 目录(2025年07月11日更新)
+[WSL 迁移指南](https://ymqs.top/p/2025-07-11-14-wsl-migrate/)
+
 [录屏和打字增强](https://ymqs.top/p/2025-07-10-21/)
 
 [润](https://ymqs.top/p/2025-05-22-15/)
 
-[wsl端口映射到主机](https://ymqs.top/p/2025-05-18-15/)
+[wsl端口映射到主机](https://ymqs.top/p/2025-05-18-15-wsl-port/)
 
 [ubuntu如何清理缓存](https://ymqs.top/p/2025-05-16-12/)
 
