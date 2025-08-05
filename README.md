@@ -1,10 +1,12 @@
 # 方圆小站Github仓库
 
 ---start---
-## 目录(2025年07月30日更新)
+## 目录(2025年08月05日更新)
 [1Panel服务器迁移和Wordpress配置](https://ymqs.top/p/2025-07-31-00-1Panel-migration/)
 
 [1Panel上Docker打开2375端口](https://ymqs.top/p/2025-07-27-17-docker-2375/)
+
+[群晖SSL证书自动续签+反向代理](https://ymqs.top/p/2025-07-23-16-synology-SSL/)
 
 [WSL 迁移指南](https://ymqs.top/p/2025-07-11-14-wsl-migrate/)
 
