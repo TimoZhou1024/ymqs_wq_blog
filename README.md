@@ -1,7 +1,7 @@
 # 方圆小站Github仓库
 
 ---start---
-## 目录(2025年08月08日更新)
+## 目录(2025年08月29日更新)
 [群晖反向代理手动配置](https://ymqs.top/p/2025-08-09-01-synology-reverse-proxy/)
 
 [1Panel服务器迁移和Wordpress配置](https://ymqs.top/p/2025-07-31-00-1Panel-migration/)
