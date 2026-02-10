@@ -1,10 +1,12 @@
 # 方圆小站Github仓库
 
 ---start---
-## 目录(2025年11月09日更新)
+## 目录(2026年02月10日更新)
 [Windows Hello 人脸识别失败](https://ymqs.top/p/2025-11-09-02-windows-hello/)
 
 [群晖反向代理手动配置](https://ymqs.top/p/2025-08-09-01-synology-reverse-proxy/)
+
+[家用NAS的全球访问配置](https://ymqs.top/p/2025-08-07-13-global-access/)
 
 [1Panel服务器迁移和Wordpress配置](https://ymqs.top/p/2025-07-31-00-1Panel-migration/)
 
